@@ -1,0 +1,16 @@
+{
+  "name": "GreenMobility",
+  "symbol": "GMOB",
+  "description": "Ein nachhaltiger Token für grüne Mobilität und umweltfreundliche Technologien.",
+  "image": "https://github.com/CrimeTwin/greenmobility-token/blob/main/greenmobility.png.png?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Sustainability",
+      "value": "High"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Eco-friendly"
+    }
+  ]
+}
